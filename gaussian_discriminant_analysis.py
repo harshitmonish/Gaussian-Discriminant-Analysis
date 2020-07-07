@@ -135,8 +135,8 @@ def plot_graph(x, y, phi, mu0, mu1, sigma0, sigma1, thetas, type_graph):
         
 def main():
     #firstly read the data from the  file
-    X_in = pd.read_csv("./lin_log/q4x.dat").values
-    Y_in = pd.read_csv("./lin_log/q4y.dat").values
+    X_in = pd.read_csv("./q4x.dat").values
+    Y_in = pd.read_csv("./q4y.dat").values
     #norlaize the data 
     X1 = modify_input(X_in)
     X = normalize(X1)
