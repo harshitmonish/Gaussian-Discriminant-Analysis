@@ -8,3 +8,9 @@
 * Plotted the training data corresponding to the two coordinates of the input features, and used a different symbol for each point plotted to indicate whether that example had label Canada or Alaska.
 * Implemented GDA in the general setting where each of the target classes have its own covariance matrix. This results in quadratic decision boundary seperating the two class region. Reported the values of mu0, mu1, cov matrix0, cov matrix 1.
 * Plotted the quadratic decision boundary obtained.
+
+
+# Author 
+ * Harshit Monish https://github.com/harshitmonish
+ 
+## Course Project Under http://www.cse.iitd.ernet.in/~parags/
