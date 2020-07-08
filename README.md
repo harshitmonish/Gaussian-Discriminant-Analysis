@@ -11,6 +11,6 @@
 
 
 # Author 
- * Harshit Monish https://github.com/harshitmonish
+ * [Harshit Monish](https://github.com/harshitmonish)
  
-## Course Project Under http://www.cse.iitd.ernet.in/~parags/
+## Course Project Under [Prof. Parag Singla](http://www.cse.iitd.ernet.in/~parags/)
